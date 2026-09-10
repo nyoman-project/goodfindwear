@@ -13,41 +13,38 @@
 
 Everything recommended within one post must belong together and make sense as one recommendation.
 
-### Consistency rules
-- The LOOK and BREAKDOWN must contain the exact same items.
-- Do not introduce unrelated products between slides.
-- If a post has alternatives, they must still belong to the same theme/category.
-- For 3 LOOKS, keep the core theme/item consistent; variations should be intentional.
-- Treat each post as a self-contained catalog recommendation.
+## LOCKED 5-SLIDE POST TEMPLATE
 
-## Fixed 5-Slide Post Template
+Every standard GOODFIND carousel post uses exactly **5 slides** in this fixed order. Do not add, remove, reorder, or replace these slide formats unless explicitly agreed in conversation.
 
-Every standard GOODFIND WEAR post/carousel uses exactly **5 slides** in this order unless a different structure is explicitly agreed in conversation.
-
-### Slide 01 — LOOK
+### SLIDE 01 — LOOK
 Purpose: show one complete outfit.
 
 Structure:
-- 1 complete outfit
+- 1 complete outfit photo/video
 - GOODFIND ID (GF001, GF002, ...)
 - Look/theme name
 - Optional total price
 - Minimal supporting copy
 
-### Slide 02 — BREAKDOWN
+Example:
+**GF001 — CASUAL DAILY**
+Oversized tee + straight pants + sneakers + cap
+
+### SLIDE 02 — BREAKDOWN
 Purpose: break down the exact outfit shown in LOOK.
 
 Structure:
-- Model wearing the exact same outfit as Slide 01
-- Same GOODFIND ID as LOOK
+- Model wearing the **exact same outfit** as Slide 01
+- Same GOODFIND ID as Slide 01
 - Number each item
 - Item name + price
 - Optional color/variant
 - Total price
 
-**Critical:** 100% of the items must match Slide 01. No substitutions, missing items, or unrelated products.
+**CRITICAL:** 100% of the items must match Slide 01. No substitutions, no unrelated products, and no missing items.
 
-### Slide 03 — TODAY PICKS
+### SLIDE 03 — TODAY PICKS
 Purpose: curated selection of several items for the day.
 
 Structure:
@@ -58,9 +55,9 @@ Structure:
 - Price
 - Optional color dots/category
 
-All picks in one slide should share a clear theme or shopping context.
+All picks in one slide must share a clear theme or shopping context.
 
-### Slide 04 — 3 LOOKS
+### SLIDE 04 — 3 LOOKS
 Purpose: show three outfit variations within one theme.
 
 Structure:
@@ -76,7 +73,7 @@ Example:
 
 The three looks must clearly relate to the same theme. If one core item is specified, use the same core item across all three looks.
 
-### Slide 05 — BRAND / LIFESTYLE
+### SLIDE 05 — BRAND / LIFESTYLE
 Purpose: occasional non-catalog content to keep the brand human and visually varied.
 
 Examples:
@@ -86,81 +83,16 @@ Examples:
 
 This is supporting content, not a primary affiliate format.
 
-### Fixed Template Rule
-The 5-slide sequence is:
-**LOOK → BREAKDOWN → TODAY PICKS → 3 LOOKS → BRAND / LIFESTYLE**
+## CONTENT OUTPUT REQUIREMENT
 
-When generating a visual storyboard, the storyboard means a **visual mockup/reference of these 5 actual slides**, not a separate storyboard board or planning sheet.
+When generating a GOODFIND daily content idea, always provide these three deliverables:
 
-## Approved Content Formats
+1. **Caption** — ready-to-post Instagram caption.
+2. **Tools** — choose **Carousel** or **Reels** based on the concept. For the locked 5-slide template, use Carousel.
+3. **Storyboard** — generate a **visual mockup/reference of the actual 5 slides**, not a planning board or text-only storyboard. The visual must clearly show what each of the five final slides should look like.
 
-The five approved content formats are the building blocks of the fixed 5-slide post template:
-
-### 01 — LOOK
-Purpose: show one complete outfit.
-
-Structure:
-- Outfit photo/video
-- GOODFIND ID (GF001, GF002, ...)
-- Look/theme name
-- Optional total price
-- Minimal supporting copy
-
-Example:
-**GF001 — CASUAL DAILY**
-Oversized tee + straight pants + sneakers + cap
-
-### 02 — BREAKDOWN
-Purpose: break down the exact outfit shown in LOOK.
-
-Structure:
-- Same GOODFIND ID as LOOK
-- Same outfit/photo
-- Number each item
-- Item name + price
-- Optional color/variant
-- Total price
-
-**Critical:** 100% of the items must match the LOOK. No substitutions or unrelated items.
-
-### 03 — TODAY PICKS
-Purpose: curated selection of several items for the day.
-
-Structure:
-- TODAY PICKS header
-- 4–6 items
-- Item image
-- Item name
-- Price
-- Optional color dots/category
-
-All picks in one post should share a clear theme or shopping context.
-
-### 04 — 3 LOOKS
-Purpose: show three outfit variations within one theme.
-
-Structure:
-- Theme headline
-- Look 01
-- Look 02
-- Look 03
-- Short style labels
-
-Example:
-**3 LOOKS — BLACK PANTS**
-01 Clean / 02 Casual / 03 Street
-
-The three looks should clearly relate to the same theme. If one core item is specified, use the same core item across all three looks.
-
-### 05 — BRAND / LIFESTYLE
-Purpose: occasional non-catalog content to keep the brand human and visually varied.
-
-Examples:
-- Good stuff. Good looks.
-- Fashion/lifestyle imagery
-- Simple brand statements
-
-This is supporting content, not a primary affiliate format.
+The five visual slides must follow the locked structure:
+**LOOK → BREAKDOWN → TODAY PICKS → 3 LOOKS → BRAND / LIFESTYLE**.
 
 ## Visual Direction
 - Simple, clean, modern catalog/editorial feel.
@@ -203,18 +135,16 @@ The content should be easy to scan: **see the look → understand the items → 
 ## Content Philosophy
 GOODFIND should feel like **a friend with good taste sending you things worth checking out**, not a storefront shouting for a purchase.
 
-Keep the catalog simple:
-**LOOK → BREAKDOWN → TODAY PICKS → 3 LOOKS**
-with BRAND/LIFESTYLE used occasionally.
+Keep the standard post simple:
+**LOOK → BREAKDOWN → TODAY PICKS → 3 LOOKS → BRAND / LIFESTYLE**
+
+with each post containing exactly 5 slides.
 
 ## Reference Priority
 Whenever creating future GOODFIND references, storyboards, templates, content ideas, or generated visuals, use this document as the core source of truth. Do not introduce a new recurring format or change the approved structure unless explicitly agreed in conversation.
 
 When generating a visual reference, prioritize BOTH:
-1. the approved content structure above, and
+1. the locked 5-slide content structure above, and
 2. the approved feed/visual style system.
 
 Never sacrifice item consistency for visual variety. If one post recommends a curated set, all relevant slides must represent that same set and theme.
-
-## Visual Storyboard Rule
-For future content ideation, a requested “storyboard” means generating the **actual visual reference/mockup for the 5-slide post**, with one visual for each slide in the fixed sequence. Do not generate a planning-board image containing captions, tools, notes, or storyboard explanations unless explicitly requested.
