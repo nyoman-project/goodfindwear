@@ -1,14 +1,15 @@
 const looks = [
   {
     id: 'GF003',
-    name: 'THE MODERN CLASSIC',
-    theme: 'One shirt. Endless days.',
+    name: 'ONE SHIRT. THREE MOODS.',
+    theme: 'A light blue oxford shirt, styled three ways.',
+    core: 'LIGHT BLUE OXFORD SHIRT',
     items: [
-      { name: 'Oxford Shirt', meta: 'Light Blue Stripe · Relaxed Fit', price: 'IDR 199.000', url: '' },
-      { name: 'Basic Tee', meta: 'White · Regular Fit', price: 'IDR 129.000', url: '' },
-      { name: 'Wide Chino Pants', meta: 'Beige · Relaxed Fit', price: 'IDR 249.000', url: '' },
-      { name: 'Sneakers', meta: 'White · Everyday Runner', price: 'IDR 1.799.000', url: '' },
-      { name: 'Canvas Tote Bag', meta: 'Black · Minimal Design', price: 'IDR 159.000', url: '' }
+      { name: 'Light Blue Oxford Shirt', meta: 'Relaxed fit · Core item', price: 'IDR 199.000', url: '' },
+      { name: 'White Basic Tee', meta: 'Regular fit · Layering piece', price: 'IDR 129.000', url: '' },
+      { name: 'Beige Wide Chino', meta: 'Relaxed fit · Clean neutral', price: 'IDR 249.000', url: '' },
+      { name: 'White Everyday Sneakers', meta: 'Minimal · Daily wear', price: 'IDR 1.799.000', url: '' },
+      { name: 'Black Canvas Tote', meta: 'Minimal design · Everyday carry', price: 'IDR 159.000', url: '' }
     ]
   },
   { id: 'GF002', name: 'THE DAILY ESSENTIAL', theme: 'Simple pieces. Better possibilities.', items: [] },
@@ -31,8 +32,12 @@ function itemMarkup(item, index) {
 function renderLooks() {
   grid.innerHTML = looks.map((look, index) => {
     const breakdown = look.items.length
-      ? look.items.map(itemMarkup).join('') + '<p class="affiliate-note"><strong>Affiliate:</strong> links will appear here once verified.</p>'
-      : '<p class="affiliate-note">Breakdown coming soon.</p>';
+      ? `
+        <div class="core-item"><span>CORE ITEM</span><strong>${look.core}</strong></div>
+        ${look.items.map(itemMarkup).join('')}
+        <p class="affiliate-note"><strong>Affiliate status:</strong> links will be added only after they are verified.</p>
+      `
+      : '<p class="affiliate-note">This look will be added soon.</p>';
 
     return `
       <article class="look-card" data-index="${index}">
@@ -56,13 +61,13 @@ function renderLooks() {
   }).join('');
 
   grid.querySelectorAll('.toggle').forEach(button => {
-    button.addEventListener('click', () => {
+    button.addEventListener('click', (event) => {
+      event.stopPropagation();
       const card = button.closest('.look-card');
       const breakdown = card.querySelector('.breakdown');
       const open = card.classList.toggle('is-open');
       button.setAttribute('aria-expanded', String(open));
       breakdown.setAttribute('aria-hidden', String(!open));
-      if (open) card.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     });
   });
 }
