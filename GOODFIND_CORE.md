@@ -89,15 +89,42 @@ Examples:
 This is supporting content, not a primary affiliate format.
 
 ## Visual Direction
-- Simple
-- Clean
-- Catalog/editorial feel
-- Unisex
-- Modern but approachable
-- Neutral base palette with restrained accent color
-- Strong, readable typography
-- Product/outfit imagery is the hero
-- Avoid clutter and excessive sales language
+- Simple, clean, modern catalog/editorial feel.
+- Unisex and relevant to both women and men.
+- Product/outfit imagery is always the visual hero.
+- Neutral base palette: warm cream/off-white, charcoal/black, soft gray, with restrained muted olive as the accent.
+- Strong, readable typography; bold headline + clean supporting text.
+- Consistent GOODFIND WEAR logo placement across posts.
+- Generous whitespace and clean grid/alignment.
+- Use subtle handwritten/doodle accents sparingly for the friendly personality.
+- Price tags, item numbers, labels, and arrows should use a consistent visual language.
+- Keep photography cohesive: clean backgrounds, natural/editorial styling, neutral tones, minimal visual noise.
+- Avoid excessive stickers, gradients, loud colors, dense text, or aggressive sales graphics.
+
+## Feed Style System
+The feed should look like one cohesive fashion catalog, not a collection of unrelated posts.
+
+### Feed principles
+- Every post should be recognizable as GOODFIND even without reading the caption.
+- Keep the same typography, palette, logo treatment, spacing, and photo treatment across the feed.
+- Alternate visual weight so the feed does not become repetitive: full-outfit imagery, product-grid layouts, and multi-look layouts should balance each other.
+- Do not force a rigid color checkerboard; consistency comes from the design system, not identical compositions.
+- Keep recurring headers visually consistent: LOOK, BREAKDOWN, TODAY PICKS, 3 LOOKS.
+- Use GOODFIND IDs consistently for outfit-based posts (GF001, GF002, GF003...).
+- Maintain visual continuity when posts belong to the same recommendation series.
+- Prefer 4:5 feed format (1080 × 1350) for static posts/carousels unless the platform requires otherwise.
+
+### Recommended feed rhythm
+A natural repeating rhythm can be:
+**LOOK → BREAKDOWN → TODAY PICKS → LOOK → 3 LOOKS → BREAKDOWN → repeat**
+
+BRAND / LIFESTYLE posts are inserted occasionally when the feed needs visual breathing room, not as a fixed recurring slot.
+
+### Catalog feel
+The desired impression when someone opens the profile:
+> **“This feels like a clean fashion catalog curated by a friend with good taste.”**
+
+The content should be easy to scan: **see the look → understand the items → check the price → find the link.**
 
 ## Content Philosophy
 GOODFIND should feel like **a friend with good taste sending you things worth checking out**, not a storefront shouting for a purchase.
@@ -108,3 +135,9 @@ with BRAND/LIFESTYLE used occasionally.
 
 ## Reference Priority
 Whenever creating future GOODFIND references, storyboards, templates, content ideas, or generated visuals, use this document as the core source of truth. Do not introduce a new recurring format or change the approved structure unless explicitly agreed in conversation.
+
+When generating a visual reference, prioritize BOTH:
+1. the approved content structure above, and
+2. the approved feed/visual style system.
+
+Never sacrifice item consistency for visual variety. If one post recommends a curated set, all relevant slides must represent that same set and theme.
