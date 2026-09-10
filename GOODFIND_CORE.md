@@ -20,7 +20,81 @@ Everything recommended within one post must belong together and make sense as on
 - For 3 LOOKS, keep the core theme/item consistent; variations should be intentional.
 - Treat each post as a self-contained catalog recommendation.
 
+## Fixed 5-Slide Post Template
+
+Every standard GOODFIND WEAR post/carousel uses exactly **5 slides** in this order unless a different structure is explicitly agreed in conversation.
+
+### Slide 01 — LOOK
+Purpose: show one complete outfit.
+
+Structure:
+- 1 complete outfit
+- GOODFIND ID (GF001, GF002, ...)
+- Look/theme name
+- Optional total price
+- Minimal supporting copy
+
+### Slide 02 — BREAKDOWN
+Purpose: break down the exact outfit shown in LOOK.
+
+Structure:
+- Model wearing the exact same outfit as Slide 01
+- Same GOODFIND ID as LOOK
+- Number each item
+- Item name + price
+- Optional color/variant
+- Total price
+
+**Critical:** 100% of the items must match Slide 01. No substitutions, missing items, or unrelated products.
+
+### Slide 03 — TODAY PICKS
+Purpose: curated selection of several items for the day.
+
+Structure:
+- TODAY PICKS header
+- 4–6 items
+- Item image
+- Item name
+- Price
+- Optional color dots/category
+
+All picks in one slide should share a clear theme or shopping context.
+
+### Slide 04 — 3 LOOKS
+Purpose: show three outfit variations within one theme.
+
+Structure:
+- Theme headline
+- Look 01
+- Look 02
+- Look 03
+- Short style labels
+
+Example:
+**3 LOOKS — BLACK PANTS**
+01 Clean / 02 Casual / 03 Street
+
+The three looks must clearly relate to the same theme. If one core item is specified, use the same core item across all three looks.
+
+### Slide 05 — BRAND / LIFESTYLE
+Purpose: occasional non-catalog content to keep the brand human and visually varied.
+
+Examples:
+- Good stuff. Good looks.
+- Fashion/lifestyle imagery
+- Simple brand statements
+
+This is supporting content, not a primary affiliate format.
+
+### Fixed Template Rule
+The 5-slide sequence is:
+**LOOK → BREAKDOWN → TODAY PICKS → 3 LOOKS → BRAND / LIFESTYLE**
+
+When generating a visual storyboard, the storyboard means a **visual mockup/reference of these 5 actual slides**, not a separate storyboard board or planning sheet.
+
 ## Approved Content Formats
+
+The five approved content formats are the building blocks of the fixed 5-slide post template:
 
 ### 01 — LOOK
 Purpose: show one complete outfit.
@@ -141,3 +215,6 @@ When generating a visual reference, prioritize BOTH:
 2. the approved feed/visual style system.
 
 Never sacrifice item consistency for visual variety. If one post recommends a curated set, all relevant slides must represent that same set and theme.
+
+## Visual Storyboard Rule
+For future content ideation, a requested “storyboard” means generating the **actual visual reference/mockup for the 5-slide post**, with one visual for each slide in the fixed sequence. Do not generate a planning-board image containing captions, tools, notes, or storyboard explanations unless explicitly requested.
