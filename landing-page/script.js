@@ -11,7 +11,18 @@ const looks = [
       { name: 'Canvas Tote Bag', meta: 'Black · Minimal Design', price: 'IDR 159.000', url: 'YOUR_AFFILIATE_LINK_05' }
     ]
   },
-  { id: 'GF002', name: 'THE DAILY ESSENTIAL', theme: 'Simple pieces. Better possibilities.', items: [] },
+  {
+    id: 'GF002',
+    name: 'CITY UTILITY',
+    theme: 'Workwear, without the work.',
+    items: [
+      { name: 'Lawna — Workshirt Boxy Double Zipper with Clark White - Olive', meta: "Men's · Olive · Boxy Fit · Lawna Official Store · Shopee Mall", price: 'IDR 147.000', url: 'https://s.shopee.co.id/qjPKz2OK9' },
+      { name: "TONIQUE x TONGUE TAILOR — AULIO Men's Regular Fit Cotton Combed 24s T-shirt — White", meta: "Men's · White · Regular Fit · Tonique Official Store · Shopee Mall", price: 'IDR 109.000', url: 'https://s.shopee.co.id/8AW04XYajD' },
+      { name: 'SimplySupply Chino Loose Fit Celana Work Pants - Army', meta: "Men's · Army · Loose Fit · Simply Supply Official Store · Shopee Mall", price: 'IDR 199.000', url: 'https://s.shopee.co.id/60RVUaKn0h' },
+      { name: 'Ventela Alpha Low White [OFFICIAL]', meta: "Men's · White · Alpha Low · Ventela Authorized Surabaya", price: 'IDR 234.800', url: 'https://s.shopee.co.id/9fKnrN4nHo' },
+      { name: 'Casio General F-91W-1D Classic Digital Dial Black Resin Band', meta: "Men's · Black · F-91W-1D · Carolina Watch Official Shop · Shopee Mall", price: 'IDR 267.900', url: 'https://s.shopee.co.id/1Vz68OMDja' }
+    ]
+  },
   { id: 'GF001', name: 'CLEAN WEEKEND', theme: 'Easy layers for off-duty days.', items: [] }
 ];
 
