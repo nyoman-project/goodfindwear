@@ -36,6 +36,44 @@ const looks = [
         affiliateUrl: 'https://s.shopee.co.id/20vMYzF4Cj'
       }
     ]
+  },
+  {
+    id: 'GF002',
+    theme: 'CITY UTILITY',
+    title: 'CITY UTILITY',
+    price: 'TOTAL ± Rp957.700',
+    items: [
+      {
+        number: '01',
+        name: 'Lawna — Workshirt Boxy Double Zipper with Clark White - Olive',
+        price: 'Rp147.000',
+        affiliateUrl: 'https://s.shopee.co.id/qjPKz2OK9'
+      },
+      {
+        number: '02',
+        name: "TONIQUE x TONGUE TAILOR — AULIO Men's Regular Fit Cotton Combed 24s T-shirt — White",
+        price: 'Rp109.000',
+        affiliateUrl: 'https://s.shopee.co.id/8AW04XYajD'
+      },
+      {
+        number: '03',
+        name: 'SimplySupply Chino Loose Fit Celana Work Pants - Army',
+        price: 'Rp199.000',
+        affiliateUrl: 'https://s.shopee.co.id/60RVUaKn0h'
+      },
+      {
+        number: '04',
+        name: 'Ventela Alpha Low White [OFFICIAL]',
+        price: 'Rp234.800',
+        affiliateUrl: 'https://s.shopee.co.id/9fKnrN4nHo'
+      },
+      {
+        number: '05',
+        name: 'Casio General F-91W-1D Classic Digital Dial Black Resin Band',
+        price: 'Rp267.900',
+        affiliateUrl: 'https://s.shopee.co.id/1Vz68OMDja'
+      }
+    ]
   }
 ];
 
