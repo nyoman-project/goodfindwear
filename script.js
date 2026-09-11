@@ -1,4 +1,43 @@
-const looks = [];
+const looks = [
+  {
+    id: 'GF001',
+    theme: 'EVERYDAY CLEAN',
+    title: 'THE EVERYDAY UNIFORM',
+    price: 'TOTAL ± Rp1.154.880',
+    items: [
+      {
+        number: '01',
+        name: 'HIGHTY Light Blue Band Collar Oxford Shirt | Kemeja Pria Lengan Panjang',
+        price: 'Rp179.550',
+        affiliateUrl: 'https://s.shopee.co.id/AUtugUHliQ'
+      },
+      {
+        number: '02',
+        name: 'Aerostreet T-Shirt Boxy Heavyweight Slim Look Levto White',
+        price: 'Rp109.900',
+        affiliateUrl: 'https://s.shopee.co.id/9KhxINSYGI'
+      },
+      {
+        number: '03',
+        name: 'Platini Celana Pria Chino Panjang Krem 588032',
+        price: 'Rp219.000',
+        affiliateUrl: 'https://s.shopee.co.id/5AsOKkQDHa'
+      },
+      {
+        number: '04',
+        name: 'Aerostreet Blanc Sneakers Unisex Hitam Putih Putih',
+        price: 'Rp209.900',
+        affiliateUrl: 'https://s.shopee.co.id/2Vrd9sZLom'
+      },
+      {
+        number: '05',
+        name: 'Ortuseight Berlin Tote Bag Black',
+        price: 'Rp435.530',
+        affiliateUrl: 'https://s.shopee.co.id/20vMYzF4Cj'
+      }
+    ]
+  }
+];
 
 const grid = document.querySelector('#lookGrid');
 const count = document.querySelector('.section-count');
