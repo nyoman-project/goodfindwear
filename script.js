@@ -5,36 +5,11 @@ const looks = [
     title: 'THE EVERYDAY UNIFORM',
     price: 'TOTAL ± Rp1.154.880',
     items: [
-      {
-        number: '01',
-        name: 'HIGHTY Light Blue Band Collar Oxford Shirt | Kemeja Pria Lengan Panjang',
-        price: 'Rp179.550',
-        affiliateUrl: 'https://s.shopee.co.id/AUtugUHliQ'
-      },
-      {
-        number: '02',
-        name: 'Aerostreet T-Shirt Boxy Heavyweight Slim Look Levto White',
-        price: 'Rp109.900',
-        affiliateUrl: 'https://s.shopee.co.id/9KhxINSYGI'
-      },
-      {
-        number: '03',
-        name: 'Platini Celana Pria Chino Panjang Krem 588032',
-        price: 'Rp219.000',
-        affiliateUrl: 'https://s.shopee.co.id/5AsOKkQDHa'
-      },
-      {
-        number: '04',
-        name: 'Aerostreet Blanc Sneakers Unisex Hitam Putih Putih',
-        price: 'Rp209.900',
-        affiliateUrl: 'https://s.shopee.co.id/2Vrd9sZLom'
-      },
-      {
-        number: '05',
-        name: 'Ortuseight Berlin Tote Bag Black',
-        price: 'Rp435.530',
-        affiliateUrl: 'https://s.shopee.co.id/20vMYzF4Cj'
-      }
+      { number: '01', name: 'HIGHTY Light Blue Band Collar Oxford Shirt | Kemeja Pria Lengan Panjang', price: 'Rp179.550', affiliateUrl: 'https://s.shopee.co.id/AUtugUHliQ' },
+      { number: '02', name: 'Aerostreet T-Shirt Boxy Heavyweight Slim Look Levto White', price: 'Rp109.900', affiliateUrl: 'https://s.shopee.co.id/9KhxINSYGI' },
+      { number: '03', name: 'Platini Celana Pria Chino Panjang Krem 588032', price: 'Rp219.000', affiliateUrl: 'https://s.shopee.co.id/5AsOKkQDHa' },
+      { number: '04', name: 'Aerostreet Blanc Sneakers Unisex Hitam Putih Putih', price: 'Rp209.900', affiliateUrl: 'https://s.shopee.co.id/2Vrd9sZLom' },
+      { number: '05', name: 'Ortuseight Berlin Tote Bag Black', price: 'Rp435.530', affiliateUrl: 'https://s.shopee.co.id/20vMYzF4Cj' }
     ]
   },
   {
@@ -43,36 +18,24 @@ const looks = [
     title: 'CITY UTILITY',
     price: 'TOTAL ± Rp957.700',
     items: [
-      {
-        number: '01',
-        name: 'Lawna — Workshirt Boxy Double Zipper with Clark White - Olive',
-        price: 'Rp147.000',
-        affiliateUrl: 'https://s.shopee.co.id/qjPKz2OK9'
-      },
-      {
-        number: '02',
-        name: "TONIQUE x TONGUE TAILOR — AULIO Men's Regular Fit Cotton Combed 24s T-shirt — White",
-        price: 'Rp109.000',
-        affiliateUrl: 'https://s.shopee.co.id/8AW04XYajD'
-      },
-      {
-        number: '03',
-        name: 'SimplySupply Chino Loose Fit Celana Work Pants - Army',
-        price: 'Rp199.000',
-        affiliateUrl: 'https://s.shopee.co.id/60RVUaKn0h'
-      },
-      {
-        number: '04',
-        name: 'Ventela Alpha Low White [OFFICIAL]',
-        price: 'Rp234.800',
-        affiliateUrl: 'https://s.shopee.co.id/9fKnrN4nHo'
-      },
-      {
-        number: '05',
-        name: 'Casio General F-91W-1D Classic Digital Dial Black Resin Band',
-        price: 'Rp267.900',
-        affiliateUrl: 'https://s.shopee.co.id/1Vz68OMDja'
-      }
+      { number: '01', name: 'Lawna — Workshirt Boxy Double Zipper with Clark White - Olive', price: 'Rp147.000', affiliateUrl: 'https://s.shopee.co.id/qjPKz2OK9' },
+      { number: '02', name: "TONIQUE x TONGUE TAILOR — AULIO Men's Regular Fit Cotton Combed 24s T-shirt — White", price: 'Rp109.000', affiliateUrl: 'https://s.shopee.co.id/8AW04XYajD' },
+      { number: '03', name: 'SimplySupply Chino Loose Fit Celana Work Pants - Army', price: 'Rp199.000', affiliateUrl: 'https://s.shopee.co.id/60RVUaKn0h' },
+      { number: '04', name: 'Ventela Alpha Low White [OFFICIAL]', price: 'Rp234.800', affiliateUrl: 'https://s.shopee.co.id/9fKnrN4nHo' },
+      { number: '05', name: 'Casio General F-91W-1D Classic Digital Dial Black Resin Band', price: 'Rp267.900', affiliateUrl: 'https://s.shopee.co.id/1Vz68OMDja' }
+    ]
+  },
+  {
+    id: 'GF003',
+    theme: 'WORKDAY BLACK',
+    title: 'WORKDAY BLACK',
+    price: 'TOTAL ± Rp995.138',
+    items: [
+      { number: '01', name: 'CUTOFF Parker Double Pocket Workshirt Kemeja Kerja Oxford Polos Pria Panjang', price: 'Rp177.468', affiliateUrl: 'https://s.shopee.co.id/2LYDJn3Wyc' },
+      { number: '02', name: 'Fairgoods Celana Panjang Twill Barrel Pants Salene Black', price: 'Rp170.000', affiliateUrl: 'https://s.shopee.co.id/1Vz6KKDPEW' },
+      { number: '03', name: 'Ventela Ethnic Low Black Natural [OFFICIAL]', price: 'Rp223.060', affiliateUrl: 'https://s.shopee.co.id/1Vz6KMcvYx' },
+      { number: '04', name: 'CASIO MTP-V004L-1A Black Dial Black Leather Band', price: 'Rp335.610', affiliateUrl: 'https://s.shopee.co.id/8fSGrYgeoP' },
+      { number: '05', name: 'Houseofcuff Ikat Pinggang Kulit Belt Leather Gesper Pria Hitam RAIL L', price: 'Rp89.000', affiliateUrl: 'https://s.shopee.co.id/3VkAi5hv4k' }
     ]
   }
 ];
