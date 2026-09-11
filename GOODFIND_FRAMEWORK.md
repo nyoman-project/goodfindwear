@@ -1,8 +1,8 @@
 # GOOD FIND WEAR — CONTENT FRAMEWORK
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Status:** Active  
-**Purpose:** Single source of truth for Good Find Wear content production, verification, delivery, affiliate handling, approval, and landing-page updates.
+**Purpose:** Single source of truth for Good Find Wear content production, verification, delivery, affiliate handling, approval, landing-page updates, and live deployment verification.
 
 ---
 
@@ -10,7 +10,7 @@
 
 Every Good Find Wear post MUST follow this order:
 
-**PRODUCT FIRST → VERIFY → DESIGN → DETAILS → AFFILIATE → APPROVED → LANDING PAGE**
+**PRODUCT FIRST → VERIFY → DESIGN → DETAILS → AFFILIATE → APPROVED → LANDING PAGE → LIVE VERIFY**
 
 Never start from an AI-generated outfit and then search for similar products afterward.
 
@@ -254,6 +254,29 @@ For each GOODFIND ID, store/update:
 
 **Never update the landing page before approval.**
 
+### 10.1 LIVE LANDING-PAGE VERIFICATION — HARD REQUIREMENT
+
+A GitHub commit is **not** considered a completed landing-page update by itself.
+
+After every landing-page change:
+
+1. Confirm the deployed/live landing page is serving the updated version.
+2. Open the actual public landing-page URL, not only the GitHub file view.
+3. Verify the expected GOODFIND ID appears in the rendered page.
+4. Verify the look name/theme and all 5 item entries match the approved repository data.
+5. Open/check the rendered item links and confirm they point to the confirmed user-provided affiliate links.
+6. If cache-busting/versioning is used, increment the asset version when necessary and verify the live page again.
+7. If the live page still shows an older version, **do not report the update as complete**. Diagnose the deployment/cache/path issue first.
+8. Record the result internally as either:
+   - **LIVE VERIFIED** — public page matches repository data.
+   - **NOT LIVE / NEEDS FIX** — repository is updated but public page has not updated yet.
+
+### Deployment-path rule
+
+Before editing landing-page data, identify which file/path the live `index.html` actually loads. If there are duplicate files (for example root `script.js` and `landing-page/script.js`), update the file used by the deployed page or explicitly synchronize both when the project structure requires it.
+
+**Never assume that a successful GitHub commit means the public landing page has updated.**
+
 ---
 
 ## 11. GOODFIND ID MANAGEMENT
@@ -314,11 +337,20 @@ Before delivery, confirm:
 - [ ] Explicit approval received
 - [ ] Affiliate links supplied/confirmed
 - [ ] Landing page updated only after both conditions
+- [ ] Correct deployed file/path identified
+- [ ] Public landing-page URL checked after update
+- [ ] Expected GOODFIND ID visible on the live page
+- [ ] Look/theme and all 5 items match repository data
+- [ ] Live item links match confirmed affiliate links
+- [ ] Cache/deployment issue resolved if stale content appears
+- [ ] Final status recorded as LIVE VERIFIED or NOT LIVE / NEEDS FIX
 
 ---
 
 ## 13. NON-NEGOTIABLE RULE
 
-> **PRODUCT FIRST. VERIFY EXACTLY. DESIGN HONESTLY. NEVER SUBSTITUTE.**
+> **PRODUCT FIRST. VERIFY EXACTLY. DESIGN HONESTLY. NEVER SUBSTITUTE. VERIFY LIVE.**
 >
 > If there is any conflict between the visual concept and the exact product, the exact product wins.
+>
+> A landing-page commit is incomplete until the public landing page has been checked and the expected update is visible.
