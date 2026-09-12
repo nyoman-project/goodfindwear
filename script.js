@@ -37,6 +37,19 @@ const looks = [
       { number: '04', name: 'CASIO MTP-V004L-1A Black Dial Black Leather Band', price: 'Rp335.610', affiliateUrl: 'https://s.shopee.co.id/8fSGrYgeoP' },
       { number: '05', name: 'Houseofcuff Ikat Pinggang Kulit Belt Leather Gesper Pria Hitam RAIL L', price: 'Rp89.000', affiliateUrl: 'https://s.shopee.co.id/3VkAi5hv4k' }
     ]
+  },
+  {
+    id: 'GF004',
+    theme: 'CLEAN EVERYDAY',
+    title: 'THE EVERYDAY UNIFORM',
+    price: 'TOTAL ± Rp476.299',
+    items: [
+      { number: '01', name: 'JipClo Kaos Polos Oversized Unisex — White / Heavyweight Cotton 16s / Boxy Cut', price: 'Rp89.999', affiliateUrl: 'https://s.shopee.co.id/9peFceQxRN' },
+      { number: '02', name: 'Ackermann Chino Long Pants — Cream / Slimfit 100cm', price: 'Rp139.900', affiliateUrl: 'https://s.shopee.co.id/2LYEgv9YKP' },
+      { number: '03', name: 'Aldhis H01 Full White Gum — White', price: 'Rp117.400', affiliateUrl: 'https://s.shopee.co.id/30nvUCVrE2' },
+      { number: '04', name: 'Human Totebag Essentials Studio Black — Unisex Canvas', price: 'Rp65.000', affiliateUrl: 'https://s.shopee.co.id/9peFcz4vpX' },
+      { number: '05', name: 'PhiLipe Ricci Minimal 51 — Black', price: 'Rp64.000', affiliateUrl: 'https://s.shopee.co.id/6AkxG5NH1p' }
+    ]
   }
 ];
 
