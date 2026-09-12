@@ -50,6 +50,19 @@ const looks = [
       { number: '04', name: 'Human Totebag Essentials Studio Black — Unisex Canvas', price: 'Rp65.000', affiliateUrl: 'https://s.shopee.co.id/9peFcz4vpX' },
       { number: '05', name: 'PhiLipe Ricci Minimal 51 — Black', price: 'Rp64.000', affiliateUrl: 'https://s.shopee.co.id/6AkxG5NH1p' }
     ]
+  },
+  {
+    id: 'GF005',
+    theme: 'CITY UNIFORM',
+    title: 'CITY UNIFORM',
+    price: 'TOTAL ± Rp940.482',
+    items: [
+      { number: '01', name: 'Weister Workshirt Black Kemeja Kerja - Garage', price: 'Rp122.000', affiliateUrl: 'https://s.shopee.co.id/9peFpqqlgP' },
+      { number: '02', name: 'No Fear - Plain Regular Fit T-Shirt - White', price: 'Rp165.000', affiliateUrl: 'https://s.shopee.co.id/60RXGpmbvv' },
+      { number: '03', name: 'Vearst Work Pants Sable 540 Cut Charcoal - Slim Straight - Celana Chino Panjang', price: 'Rp266.082', affiliateUrl: 'https://s.shopee.co.id/50Z052Oweq' },
+      { number: '04', name: 'Sepatu Nasr Sportivo Full White - Sepatu Sneakers Running Pria Wanita Sekolah Nasr Sportivo Putih Polos Olahraga Outdoor', price: 'Rp119.500', affiliateUrl: 'https://s.shopee.co.id/9KhzF4FHw9' },
+      { number: '05', name: 'Jam Tangan Unisex Casio General F-91W-1D Classic Digital Dial Black Resin Band', price: 'Rp267.900', affiliateUrl: 'https://s.shopee.co.id/40gStRb86N' }
+    ]
   }
 ];
 
