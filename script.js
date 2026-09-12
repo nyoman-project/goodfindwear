@@ -1,15 +1,15 @@
 const looks = [
   {
     id: 'GF001',
-    theme: 'EVERYDAY CLEAN',
+    theme: 'CLEAN EVERYDAY',
     title: 'THE EVERYDAY UNIFORM',
-    price: 'TOTAL ± Rp1.154.880',
+    price: 'TOTAL ± Rp476.299',
     items: [
-      { number: '01', name: 'HIGHTY Light Blue Band Collar Oxford Shirt | Kemeja Pria Lengan Panjang', price: 'Rp179.550', affiliateUrl: 'https://s.shopee.co.id/AUtugUHliQ' },
-      { number: '02', name: 'Aerostreet T-Shirt Boxy Heavyweight Slim Look Levto White', price: 'Rp109.900', affiliateUrl: 'https://s.shopee.co.id/9KhxINSYGI' },
-      { number: '03', name: 'Platini Celana Pria Chino Panjang Krem 588032', price: 'Rp219.000', affiliateUrl: 'https://s.shopee.co.id/5AsOKkQDHa' },
-      { number: '04', name: 'Aerostreet Blanc Sneakers Unisex Hitam Putih Putih', price: 'Rp209.900', affiliateUrl: 'https://s.shopee.co.id/2Vrd9sZLom' },
-      { number: '05', name: 'Ortuseight Berlin Tote Bag Black', price: 'Rp435.530', affiliateUrl: 'https://s.shopee.co.id/20vMYzF4Cj' }
+      { number: '01', name: 'JipClo Kaos Polos Oversized Unisex — White / Heavyweight Cotton 16s / Boxy Cut', price: 'Rp89.999', affiliateUrl: 'https://s.shopee.co.id/9peFceQxRN' },
+      { number: '02', name: 'Ackermann Chino Long Pants — Cream / Slimfit 100cm', price: 'Rp139.900', affiliateUrl: 'https://s.shopee.co.id/2LYEgv9YKP' },
+      { number: '03', name: 'Aldhis H01 Full White Gum — White', price: 'Rp117.400', affiliateUrl: 'https://s.shopee.co.id/30nvUCVrE2' },
+      { number: '04', name: 'Human Totebag Essentials Studio Black — Unisex Canvas', price: 'Rp65.000', affiliateUrl: 'https://s.shopee.co.id/9peFcz4vpX' },
+      { number: '05', name: 'PhiLipe Ricci Minimal 51 — Black', price: 'Rp64.000', affiliateUrl: 'https://s.shopee.co.id/6AkxG5NH1p' }
     ]
   },
   {
